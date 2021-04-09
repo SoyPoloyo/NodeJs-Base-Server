@@ -1,5 +1,5 @@
 # Base Rest-Server
-Machote de servidor en nodeJs
+Machote base de servidor en NodeJs
 
 ### Que hacen las dependencias
 ```
